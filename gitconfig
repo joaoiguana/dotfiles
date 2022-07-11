@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = jiboiadamor@gmail.com
+	name = joao garcia
